@@ -16,19 +16,25 @@ ELSEIF [Gender] = '2' then 'FEMALE' END
 ## Results 
 [Click here to view the completed Tableau business proposal.](https://public.tableau.com/app/profile/wei.jin4205/viz/NYCsotry/NYCStory?publish=yes)
 
+![image](https://user-images.githubusercontent.com/104603177/184060611-5bb55dc5-9abf-4ebd-b39c-eb0a7004b209.png)
+
+81% of the users were subscribers. 65% of the users were confirmed males and 25% were confirmed females.
+![image](https://user-images.githubusercontent.com/104603177/184060039-9438e3bf-c9f6-4cd8-9af3-b9612470be7b.png)
 
 
-Total user checkout times are then shown, which is then followed by the same graph filtered by gender. This line graph showcased the large disparity in Male and Female ridership.
+Total user checkout times are then shown, which is then followed by the same graph filtered by gender and hour. This line graph showcased the large disparity in Male and Female ridership.
+![image](https://user-images.githubusercontent.com/104603177/184060186-ce01639a-e6fe-4456-a66b-c32160b2f2a5.png)
 
-Total trips by weekday are visualized as a heatmap. The majority of Monday-Friday trips are 7 AM - 9 AM and 5 PM - 7 PM. When filtering this heatmap by Gender, it is again found that Male ridership far outpaces Female ridership. However, the peak riding hours across all genders are similar.
+Total trips by weekday are visualized as a heatmap. The majority of Monday-Friday each hour. When filtering this heatmap by Gender, it is again found that Male ridership far outpaces Female ridership. However, the peak riding hours across all genders are similar.
+![image](https://user-images.githubusercontent.com/104603177/184060275-99787b64-25b0-455d-96c7-a10fe5586f04.png)
+
 
 Finally, user trips by gender is visualized. This chart illustrates that users are much more likely to be subscribers, rather than ordinary customers.
 
 
 ## Summary  
-In this analysis, it is found that the majority of Citi bike riders in New York City (NYC) identify as **Male**. Additionally, these rides typically begin in **Ubran and densely populated areas**. Bike riding may be an attractive alternative to cars in NYC due to the congested streets and the ease of transportation.
-
-Although this business is popular in NYC due to the heavy traffic, it is not certain that Des Moines will develop the same success. Further research must be done on Des Moines to determine whether car traffic and locational convenience would motivate potential customers to use this service. While NYC has a population density of approximately 27,000 people per square mile, Des Moines only has 2,436 people per square mile. In fact, NYC has nearly 39 times the population of Des Moines.
+The data shows high activity of the bike sharing service in New York during the month of August 2019.
+The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
 
 ### Additional Suggestions
 In addition to the analysis presented in this Tableau Story, two more visualizations are suggested for future investigation:
